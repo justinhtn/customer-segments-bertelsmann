@@ -6,5 +6,3 @@ Unsupervised machine learning techniques are incredible valuable for feature eng
 
 ## Limitations
 This project utilizes proprietary data and as such is not available for us here. While the notebook is here as an example of my process and as such, the data utilized is not available. 
-
-## Project files
