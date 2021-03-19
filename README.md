@@ -9,4 +9,4 @@ This project utilizes proprietary data and as such is not available for us here.
 
 ### Preview notebook
 
-<a href="https://beta.deepnote.com/project/ecd08dd4-2037-4fff-93b9-b690f1c2f52d#%2Fcustomer-segments-bertelsmann%2Fnotebooks%2FIdentify_Customer_Segments.ipynb"> <img src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"> </a>
+<a href="https://deepnote.com/project/customer-segments-bertelsmann-7NCN1CA3T_-TubaQ8cL1LQ//customer-segments-bertelsmann/notebooks/Identify_Customer_Segments.ipynb"> <img src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"> </a>
