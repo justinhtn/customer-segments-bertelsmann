@@ -6,7 +6,3 @@ Unsupervised machine learning techniques are incredible valuable for feature eng
 
 ### Limitations
 This project utilizes proprietary data and as such is not available for us here. While the notebook is here as an example of my process and as such, the data utilized is not available. 
-
-### Preview notebook
-
-<a href="https://deepnote.com/project/ecd08dd4-2037-4fff-93b9-b690f1c2f52d#%2Fcustomer-segments-bertelsmann%2Fnotebooks%2FIdentify_Customer_Segments.ipynb"><img src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"> </a>
