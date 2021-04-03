@@ -6,3 +6,6 @@ Unsupervised machine learning techniques are incredible valuable for feature eng
 
 ### Limitations
 This project utilizes proprietary data and as such is not available for us here. While the notebook is here as an example of my process and as such, the data utilized is not available. 
+
+### View notebook
+https://deepnote.com/@justin-houghton-190b/customer-segments-bertelsmann-7NCN1CA3T_-TubaQ8cL1LQ
